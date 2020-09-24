@@ -1,0 +1,58 @@
+.navbar-custom {
+    background-color: rgb(135, 1, 115);
+    padding: 1em;
+}
+
+#profile-images {
+    margin-top: 7em;
+}
+
+.brand-custom {
+    color: rgb(255,255,255);
+    padding: 1em;
+}
+
+.project-images {
+    width: 200px;
+    height: 200px;
+    object-fit: scale-down;
+}
+
+body {
+    padding-bottom: 5em;
+}
+
+.custom-footer {
+    background-color: rgb(135,1,115);
+}
+
+img {
+    margin-top: 1em;
+}
+
+a {
+    color: white;
+}
+
+h1,
+h2,
+h3 {
+    color: rgb(135,1,115);
+    margin-top: 1em;
+}
+
+body {
+    background-color: rgb(255,255,255);
+}
+
+p {
+    margin-top: 0.5em;
+    color: #080708;
+}
+
+
+.thumbnails {
+	height:30px;
+	width:30px;
+}
+        
